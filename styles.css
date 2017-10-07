@@ -1,0 +1,47 @@
+
+#header {
+   color: black;
+   font-family: 'Russo One', sans-serif;
+   font-weight: bold;
+   letter-spacing: -1px;
+   line-height: 1;
+   text-align: center;
+}
+#header a {
+  color: inherit;
+  font-family: inherit;
+}
+
+#user a {
+  color: black;
+}
+
+.block {
+  background-color: rgb(106,90,205);
+  opacity: .9;
+  color: rgb(245,245,245);
+  padding: 50px;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  font-size: 1.5em;
+  padding-bottom: 2%;
+}
+
+.spacer {
+  padding: 3%;
+}
+
+
+body {
+  background: url('https://i0.wp.com/trendintech.com/wp-content/uploads/2016/12/b4.jpg?fit=1600%2C900') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a {
+  color: white;
+}
